@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+        
+    <wb-module deploy-name="S32L01 - Integration of Hibernate into webproject">
+                
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+                
+        <property name="context-root" value="S22L01_-_Integration_of_Hibernate_into_webproject"/>
+                
+        <property name="java-output-path" value="/S32L01 - Integration of Hibernate into webproject/build/classes"/>
+            
+    </wb-module>
+    
+</project-modules>
